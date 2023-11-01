@@ -1,0 +1,72 @@
+.week-item {
+    height: 40px;
+    display: flex;
+    font-size: 20px;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    align-items: center;
+    border-radius: 20px;
+    border-style: solid !important;
+}
+
+.iconValue {
+    width: 50px;
+}
+
+
+.week-item .dayValue {
+    font-weight: 500 !important;
+    margin-left: 20px;
+    font-size: 25px !important;
+    flex: 1 1;
+}
+
+.descriptionValue {
+    flex: 1 1;
+    margin-right: 20px;
+    text-align: right;
+}
+
+.tempValue {
+    font-weight: 600 !important;
+    color: brown;
+}
+
+.week-item-weather {
+    display: grid;
+    flex: 1 1;
+    grid-row-gap: 0;
+    grid-column-gap: 20px;
+    grid-template-columns: 20px;
+    padding: 10px 20px;
+    row-gap: 0;
+    column-gap: 20px;
+    grid-template-columns: auto auto;
+}
+
+.week-item-weather-details-item{
+    align-items: center !important;
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    font-size: large;
+    font-weight: 600;
+}
+
+.week-item-weather-details-item label:first-child{
+    color:floralwhite;
+    font-weight: 600;
+} 
+
+
+.week-item-weather-details-item label :last-child{
+    color: #000;
+   
+} 
+
+
+
+
+
+
+

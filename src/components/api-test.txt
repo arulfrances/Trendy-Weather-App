@@ -1,0 +1,41 @@
+ "coord": {
+        "lon": 1.5021,
+        "lat": 42.4624
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 286.72,
+        "feels_like": 286.27,
+        "temp_min": 286.39,
+        "temp_max": 289.15,
+        "pressure": 1002,
+        "humidity": 82
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 220
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1698331082,
+    "sys": {
+        "type": 1,
+        "id": 6426,
+        "country": "AD",
+        "sunrise": 1698301160,
+        "sunset": 1698339384
+    },
+    "timezone": 7200,
+    "id": 3039163,
+    "name": "Sant Julià de Lòria",
+    "cod": 200
