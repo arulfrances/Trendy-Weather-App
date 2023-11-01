@@ -1,3 +1,8 @@
+
+![image](https://github.com/arulfrances/Trendy-Weather-App/assets/7755566/3fa6e6a9-2f35-4e3f-8927-3e7a8f2cf012)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
